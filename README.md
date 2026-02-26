@@ -1,16 +1,10 @@
-# 🚀 Landmine Soft — Official Company Website
+# Landmine Soft — Official Company Website
 
 A modern, professional, and fully responsive website for **Landmine Soft**, a full-service software engineering studio. Built as part of the Frontend Developer Internship Assignment (LMS-S3-01598).
 
 ---
 
-## 🌐 Live Preview
-
-Open `index.html` directly in a browser — no server required.
-
----
-
-## 📋 Project Overview
+##  Project Overview
 
 This website is designed to reflect a real-world IT/Software company with a **startup + enterprise-level quality** UI/UX. The design aesthetic is **dark tech-luxury** — sophisticated, modern, and memorable.
 
@@ -22,7 +16,7 @@ This website is designed to reflect a real-world IT/Software company with a **st
 
 ---
 
-## 📄 Pages Implemented
+## Pages Implemented
 
 | Page | Route (Internal) | Status |
 |------|-----------------|--------|
@@ -63,7 +57,7 @@ landminesoft/
 
 ---
 
-## 🚀 Steps to Run Locally
+## Steps to Run Locally
 
 ### Option 1: Direct Open (Easiest)
 ```bash
@@ -95,7 +89,7 @@ npx serve .
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### UI/UX
 - ✅ Fully responsive — Mobile, Tablet, Desktop
@@ -126,7 +120,7 @@ npx serve .
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Colors
 | Variable | Value | Usage |
@@ -147,7 +141,7 @@ npx serve .
 
 ---
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 | Breakpoint | Behavior |
 |------------|----------|
@@ -158,7 +152,7 @@ npx serve .
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built with passion as part of the **Landmine Soft Frontend Internship** — LMS-S3-01598
 
